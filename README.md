@@ -11,11 +11,14 @@
   <a href="https://www.linkedin.com/in/igorbrz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-04b3dc?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## About me
-<p style="text-indent: px">Sou um desenvolvedor Front-End apaixonado em criar experiências incríveis para<br> os usuários e em programar</p>
+## Sobre mim
+<ul>
+  <li>👨🏼‍💻 Front-End Developer</li>
+  <li>🎮 Love games</li>
+  <li>📘 Studying Computer Science</li>
+</ul>
 
-          
-   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/>
