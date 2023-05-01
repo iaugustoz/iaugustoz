@@ -11,14 +11,29 @@
   <a href="https://www.linkedin.com/in/igorbrz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-04b3dc?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Sobre mim
-<ul>
-  <li>👨🏼‍💻 Front-End Developer</li>
-  <li>🎮 Love games</li>
-  <li>📘 Studying Computer Science</li>
-</ul>
 
+# About me
+
+  - 👨🏼‍💻 Front-End Developer
+  - 🎮 Love games
+  - 🛫 Travel == passion
+  - 📘 Studying Computer Science
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+# Languages
+<br><br><br>
+
+<div align="center">
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+          
+          
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/>
