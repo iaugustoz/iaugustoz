@@ -9,7 +9,7 @@
 <hr>
 <div align="center">
 
-# About me
+### About me
 <p>👨🏼‍💻 Full-Stack Developer</p>
 <p>🎮 Love games</p>
 <p>🛫 Travel == passion</p>
