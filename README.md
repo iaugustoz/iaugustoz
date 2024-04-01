@@ -10,7 +10,7 @@
 <div align="center">
 
 ### Hobbies 
-<p>👨🏼‍💻 Full-Stack Developer</p>
+<p>⚽ Soccer</p>
 <p>🛫 Travel</p>
 <p>🎮 Games</p>
 <p>⛽ Kart</p>
