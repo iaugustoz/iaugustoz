@@ -11,10 +11,9 @@
 
 ### Hobbies 
 <p>👨🏼‍💻 Full-Stack Developer</p>
-<p>🏎️ Kart</p>
-<p>🎮 Games</p>
 <p>🛫 Travel</p>
-
+<p>🎮 Games</p>
+<p>⛽ Kart</p>
 
 ### Languages & Frameworks:
     
