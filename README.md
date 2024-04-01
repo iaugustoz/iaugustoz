@@ -9,10 +9,11 @@
 <hr>
 <div align="center">
 
-### About me
+### Hobbies 
 <p>👨🏼‍💻 Full-Stack Developer</p>
-<p>🎮 Love games</p>
-<p>🛫 Travel == passion</p>
+<p>🏎️ Kart</p>
+<p>🎮 Games</p>
+<p>🛫 Travel</p>
 
 
 ### Languages & Frameworks:
