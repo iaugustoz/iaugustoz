@@ -10,7 +10,6 @@
 <div align="center">
 
 ### Hobbies 
-<p>⚽ Soccer</p>
 <p>🛫 Travel</p>
 <p>🎮 Games</p>
 <p>⛽ Kart</p>
