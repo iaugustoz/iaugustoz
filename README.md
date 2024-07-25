@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=igoraugustobrz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=bb11c52&sideLabels=FFFFFF)](https://git.io/streak-stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraugustobrz&layout=compact&hide_border=true&title_color=fd1693&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=igoraugustobrz&theme=radical" />
 </div>
 <hr>
 <div align="center">
