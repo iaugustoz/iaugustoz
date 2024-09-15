@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd1693&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Augusto;I'm+a+Java+Developer;Be+Welcome!+😼)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=igoraugustobrz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=bb11c52&sideLabels=FFFFFF" /> 
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=iaugustoz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=bb11c52&sideLabels=FFFFFF" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=igoraugustobrz&hide_border=true&bg_color=000&title_color=ff428e&theme=radical" />
 </div>
 <hr>
