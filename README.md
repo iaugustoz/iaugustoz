@@ -11,7 +11,7 @@
 
 ### Hobbies 
 <p>🛫 Travel</p>
-<p>🎮 Games</p>
+<p>📸 Pictures</p>
 <p>⛽ Kart</p>
 
 ### Languages & Frameworks:
