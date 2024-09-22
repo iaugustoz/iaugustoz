@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87252f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Augusto;I'm+a+Java+Developer;Be+Welcome!+😼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac1727&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Augusto;I'm+a+Java+Developer;Be+Welcome!+😼)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=iaugustoz&theme=shadow_red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=FFF&sideLabels=FFF" /> 
