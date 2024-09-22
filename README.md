@@ -14,11 +14,11 @@
 <p>📸 Pictures</p>
 <p>⛽ Kart</p>
 
-### Languages & Frameworks:
+### My Skills:
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,tailwind,ts,react,angular,docker,py,java,spring,gcp,mysql,oracle" />
+    <img src="https://skillicons.dev/icons?i=git,tailwind,ts,react,angular,docker,py,java,spring,gcp,mysql,openshift,jenkins" />
   </a>
 </p>
 <hr>
