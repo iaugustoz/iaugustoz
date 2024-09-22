@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87252f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87252f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Augusto;I'm+a+Java+Developer;Be+Welcome!+😼)](https://git.io/typing-svg)
 
@@ -26,4 +26,4 @@
 <img align="right" alt="GIF" src="https://github.com/igoraugustobrz/igoraugustobrz/blob/main/Coding.gif" width="500" height="320" />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87252f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=footer"/>
