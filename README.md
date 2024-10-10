@@ -10,11 +10,6 @@
 <hr>
 <div align="center">
 
-### Hobbies 
-<p>🛫 Travel</p>
-<p>📸 Pictures</p>
-<p>⛽ Kart</p>
-
 ### My Skills:
     
 <p align="center">
