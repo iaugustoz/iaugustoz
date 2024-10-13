@@ -19,7 +19,4 @@
 </p>
 <hr>
 
-<img align="right" alt="GIF" src="https://github.com/igoraugustobrz/igoraugustobrz/blob/main/Coding.gif" width="500" height="320" />
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=footer"/>
