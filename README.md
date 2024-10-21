@@ -1,22 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=header"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/iaugustoz/0f901dc5998cf1043801a6c455439051/raw/c9edaf9b65500442a25bc51c2fdb2c21cc9066a2/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Augusto</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ac1727&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Igor+Augusto;I'm+a+Back-End+Developer;Be+Welcome!+😼)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="250px" src="https://streak-stats.demolab.com?user=iaugustoz&theme=shadow_red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=FFF&sideLabels=FFF" /> 
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iaugustoz&hide_border=true&bg_color=000&title_color=ac1727&text_color=FFF\&layout=compact" />
+<div align="left">
+ <img src="https://komarev.com/ghpvc/?username=iaugustoz&color=fd2874" alt="Profile views" /> 
+ <img src="https://wakatime.com/badge/user/4456566e-93ff-4c01-8b55-368b52f1f5ec.svg?style=flat&color=fd2874" alt="Igor's WakaTime""  /> 
 </div>
 
-<hr>
-<div align="center">
+- 🔥 Software Engineer Java A Software Engineer Java dedicated to creating efficient and secure APIs 
 
-### My Skills:
-    
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,tailwind,ts,react,angular,docker,py,java,spring,gcp,mysql,openshift,jenkins" />
-  </a>
+- 🔭 I’m currently working at [SulAmérica]()
+
+- 🌌 A passionate traveler who enjoys discovering new cultures and places.
+
+- 💬 Ask me about **Java, Spring Boot, CGP, Oracle, Angular**
+
+- ⚡ Fun fact **Love I love taking photos 😜**
+
+- 👨‍💻 More at [iaugusto.vercel.app](https://iaugusto.vercel.app/)
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:fd2874">
+<a href="https://linkedin.com/in/igorbrz" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-igorbrz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/iaugusto__" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-iaugusto__-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 </p>
-<hr>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ac1727&height=120&section=footer"/>
