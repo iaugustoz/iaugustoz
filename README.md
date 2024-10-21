@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, CGP, Oracle, Angular**
 
-- ⚡ Fun fact **Love I love taking photos 😜**
+- ⚡ Fun fact **I love taking photos 😜**
 
 - 👨‍💻 More at [iaugusto.vercel.app](https://iaugusto.vercel.app/)
 
