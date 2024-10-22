@@ -6,7 +6,7 @@
  <img src="https://wakatime.com/badge/user/4456566e-93ff-4c01-8b55-368b52f1f5ec.svg?style=flat&color=fd2874" alt="Igor's WakaTime""  /> 
 </div>
 
-- 🔥 A Software Engineer Java dedicated to creating efficient and secure APIs 
+- 🔥 Software Engineer Java 
 
 - 🔭 I’m currently working at [SulAmérica]()
 
