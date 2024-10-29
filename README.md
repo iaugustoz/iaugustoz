@@ -2,8 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Augusto</h1>
 
 <div align="left">
+ <img src="https://wakatime.com/badge/user/4456566e-93ff-4c01-8b55-368b52f1f5ec.svg?style=flat&color=fd2874" alt="Igor's WakaTime""  />
  <img src="https://komarev.com/ghpvc/?username=iaugustoz&color=fd2874" alt="Profile views" /> 
- <img src="https://wakatime.com/badge/user/4456566e-93ff-4c01-8b55-368b52f1f5ec.svg?style=flat&color=fd2874" alt="Igor's WakaTime""  /> 
 </div>
 
 - 🔥 Software Engineer Java 
