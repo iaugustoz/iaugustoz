@@ -12,7 +12,7 @@
 
 - 🌌 A passionate traveler who enjoys discovering new cultures and places.
 
-- 💬 Ask me about **Java, Spring Boot, CGP, Oracle, Angular**
+- 💬 Ask me about **Java, Spring Boot, Spring Cloud, CGP, Kubernetes**
 
 - ⚡ Fun fact **I love taking photos 😜**
 
