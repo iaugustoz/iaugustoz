@@ -6,13 +6,13 @@
  <img src="https://komarev.com/ghpvc/?username=iaugustoz&color=fd2874" alt="Profile views" /> 
 </div>
 
-- 🔥 Software Engineer Java 
+- 🔥 Java Software Engineer  
 
 - 🔭 I’m currently working at [SulAmérica]()
 
 - 🌌 A passionate traveler who enjoys discovering new cultures and places.
 
-- 💬 Ask me about **Java, Spring Boot, Spring Cloud, CGP, Kubernetes**
+- 💬 Ask me about **Java, Spring Framework, CGP, CI/CD**
 
 - ⚡ Fun fact **I love taking photos 😜**
 
