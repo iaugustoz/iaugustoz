@@ -8,7 +8,7 @@
 
 - 🔥 Java Software Engineer  
 
-- 🔭 I’m currently working at [SulAmérica]()
+- 🔭 I’m currently working at [SulAmérica](https://www.linkedin.com/company/sulamerica/life/25c4025d-1e39-4fee-9c5c-70c6bb866f94/)
 
 - 🌌 A passionate traveler who enjoys discovering new cultures and places.
 
