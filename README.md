@@ -7,7 +7,7 @@
 
 - 🔥 Java Software Engineer  
 
-- 🔭 I’m currently working at ....
+- 🔭 I’m currently working at Itaú Unibanco
 
 - 🌌 A passionate traveler who enjoys discovering new cultures and places.
 
